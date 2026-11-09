@@ -1,0 +1,3 @@
+﻿# Raw data is too large for GitHub; download it from UCI (see notebook section 1)
+*.csv
+.ipynb_checkpoints/
