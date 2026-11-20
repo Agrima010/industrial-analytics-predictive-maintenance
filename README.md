@@ -178,7 +178,7 @@ We work through Gröger's (2022) four levels of industrial analytics, each build
 | Date | Deliverable | Status |
 |---|---|---|
 | 2026-10-15 | Team and roles, topic approval, glossary, initial business understanding | Done |
-| 2026-11-19 | Milestone presentation: domain, scope, objectives, project organisation, business case, dataset, first descriptive analytics | In progress |
+| 2026-11-19 | Milestone presentation: domain, scope, objectives, project organisation, business case, dataset, first descriptive analytics | Done |
 | 2027-01-21 | Final presentation: own research questions, lecture concepts applied, solution design and implementation | Planned |
 
 ## 10. Repository structure
